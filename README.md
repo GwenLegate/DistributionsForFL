@@ -1,1 +1,1 @@
-# DirichletDistributionsForFL
+# DistributionsForFL
