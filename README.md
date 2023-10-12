@@ -12,7 +12,7 @@ This repository implements common ways of splitting a dataset to create non-i.i.
   clients have an unequal number of samples (Not implemented yet)
   
 ### Sample Splits
-Sample bar graphs for the proportions of 3 randomly selected clients parameterized by alpha=0.1
+Sample bar graphs for the proportions of CIFAR10 classes of 3 randomly selected clients, parameterized by alpha=0.1. L1, L2, ..., L10 along the y-axis are the class labels, the x-axis are the proportions of each class s.t. L1 + L2 + ... + L10 = 1.0
 
 |Client No.|Proportion|Visualization|
 |----------|----------|-------------|
